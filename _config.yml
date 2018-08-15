@@ -1,0 +1,43 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://zoskia.club
+title: ZosKia Cultus Workshop
+email: contato@babalontherion.studio
+author: Pedro Pietro
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Copyright &copy; 2018 Babalon & Therion Studio All Rights Reserved.'
+credits: 'Oferecimento de Babalon & Therion Studio: espaço de '
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-maps
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/babalontherion
+# - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: facebook
+    url: https://www.facebook.com/BabalonTherionStudio/
+  - title: instagram
+    url: https://www.instagram.com/procuradordegatos/
+#maps:
+#    google:
+#        api_key: AIzaSyAb8CWEjtbZYdvHbE0Z5DxKX5dChW44ZTE
+ 
