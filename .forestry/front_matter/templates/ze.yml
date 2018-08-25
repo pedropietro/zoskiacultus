@@ -2,6 +2,9 @@
 label: ze
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: teste
+  label: teste
 pages:
 - ze.md
