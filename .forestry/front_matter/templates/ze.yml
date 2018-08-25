@@ -3,3 +3,5 @@ label: ze
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- ze.md
