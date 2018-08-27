@@ -118,8 +118,11 @@ h6 {
 
 .bannerB {
     padding: 100px 0;
-    color: #e7e7e7;
-    background: url(../img/bg/11.jpg) no-repeat center center;
+	color: #00000;	
+	/* 
+	color: #e7e7e7; 
+	*/
+    background: url(../img/bg/5.jpg) no-repeat center center;
     background-size: cover;
 }
 
