@@ -1,6 +1,10 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
+# https://www.gitpod.io/#https://github.com/pedropietro/zoskiacultus
+#install Jekyll
+# gem install jekyll bundler
+#
 
 url: http://zoskia.club
 title: ZosKia Cultus Workshop
